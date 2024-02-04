@@ -1,4 +1,4 @@
-# React-App
+# SecurePass
 
 SecurePass is a robust and user-friendly random password generator application designed to enhance the security of your online accounts and sensitive data.
 
