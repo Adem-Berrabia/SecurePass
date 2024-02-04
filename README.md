@@ -8,6 +8,7 @@ SecurePass is a robust and user-friendly random password generator application d
 
 ## Demo
 
+https://password-generator-securepass.netlify.app/
 
 ## Author : Adem Berrabia
 
