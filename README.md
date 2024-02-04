@@ -4,7 +4,7 @@ SecurePass is a robust and user-friendly random password generator application d
 
 ## Built with
 
-- [Tailwindcss] (https://tailwindcss.com/) FrameWork CSS
+- [Tailwindcss](https://tailwindcss.com/) FrameWork CSS
 
 ## Demo
 
